@@ -1,0 +1,7 @@
+{
+  "name": "Uzbekistan Zapravka Info",
+  "description": "O'zbekiston bo'ylab barcha yoqilg'i quyish shoxobchalari (YQSH) haqida ma'lumot, narxlar va navbatlar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
